@@ -3,10 +3,16 @@
 ## Author
 Leslie8826
 
-### Difficulty
+## Audience: 
+Middle School Students
+
+## Term:
+Fall 2019
+
+## Difficulty
 Easy
 
-### Objectives: 
+## Objectives 
   - Students will be able to: 
        * work with 2 characters at the same time
        * implement code for these 2 characters
@@ -22,6 +28,6 @@ Easy
        * "go to" block
        * "set x" block
 
-### Outcome:
+## Outcome
 A lion chases Abby who escapes in the end. <br>
 https://scratch.mit.edu/projects/345524970
